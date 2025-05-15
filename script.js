@@ -3,3 +3,7 @@ function calculaSoma(num1,num2){
 }
 
 calculaSoma(5,6)
+
+function frase() {
+   console.log("huehueuheBR")
+}
